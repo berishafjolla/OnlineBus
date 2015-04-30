@@ -1,0 +1,20 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Home.master" AutoEventWireup="true" CodeFile="Privatesia.aspx.cs" Inherits="Default3" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;</p>
+<div class="itemIntroText" style="margin: 0px; padding: 0px; border: 0px; color: rgb(68, 68, 68); font-weight: normal; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+    <p style="margin: 8px 0px; padding: 0px; border: 0px;">
+        Mirësevini në faqen tonë të internetit. Nëse do të vazhdoni të vizitoni dhe të përdorni këtë faqe, ju duhet të bini dakord për të ndjekur përcaktimet dhe kushtet e përdorimit, që, së bashku me të drejtat e autorit ndërtojnë marrëdhënien e Online Bus me ju, në lidhje me faqen. Nëse nuk jeni dakord me ndonjë pjesë të kushteve, ju lutemi të mos e përdorni faqen tonë të internetit.</p>
+</div>
+<div class="itemFullText" style="margin: 0px; padding: 0px; border: 0px; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 19px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255);">
+    <p style="margin: 8px 0px; padding: 0px; border: 0px;">
+        &nbsp;</p>
+    <p style="margin: 8px 0px; padding: 0px; border: 0px;">
+        Përmbatja e faqeve në këtë hapësirë është për informacionin tuaj të përgjithshëm dhe vetëm për përdorim. Subjekti i saj ndryshon, pa paralajmërim. Kjo faqe interneti përdor një pjesë të tekstit të përdoruesit, (në term teknik, “cookies”), për të mbikqyrur preferencat e lundrimit në faqe. Nëse ju, nuk lejoni përdorimin e “cookies”, informacioni i mëposhtëm personal mund të regjistrohet nga ne, për përdorim të palëve të treta.</p>
+    Ne, si dhe palët e treta nuk ofrojmë ndonjë garanci për, saktësinë, afatet kohore, ecurinë, tërësinë apo qëndrueshmërinë e informacionit dhe materialeve për ndonjë qëllim të caktuar, të ofruara në këtë faqe interneti. Ju duhet të kuptoni që, një informacion dhe material i tillë mund të përmbajë pasaktësi dhe gabime, në shtrirjen e plotë të lejuar nga ligji. Përdorimi nga ana juaj i informacioneve, apo materialeve në këtë faqe interneti, për qëllime përfitimi mund të përbëjë rrezik për ju, gjë për të cilën ne nuk jemi përgjegjës. Kjo faqe interneti përmban material, i cili është në pronësi, apo i liçencuar nga ne. Materiali përfshin projektimin, renditjen, paraqitjen dhe pamjen e jashtme, por nuk është i kufizuar. Riprodhimi është rreptësisht i ndaluar, nëse nuk arrihet marrëveshja me “të drejtën e autorit”, e cila përbën pjesë të këtyre kushteve të përdorimit. Të gjitha markat tregtare të riprodhuara në këtë faqe interneti, të cilat nuk janë në pronësi, apo të liçencuara nga autori 
+    janë bërë të njohura në faqe. Përdorimi i paautorizuar i kësaj faqeje interneti mund të shkaktojë të drejtën e një kërkese për dëmshpërblim , si dhe përbën një vepër penale. Kjo faqe interneti, herë pas here mund të përfshijë lidhje me faqet e tjera. Këto lidhje janë ofruar për t’ju lehtësuar ju, duke ofruar dhënien e një informacioni më të zgjeruar. Ato nuk do të thonë se, ne rekomandojmë, apo deklarojmë mbështetje publike për to. Ne gjithashtu, nuk mbajmë përgjegjësi për përmbajtjen e lidhjeve të faqeve të tjera të internetit. Përdorimi nga ana juaj, i kësaj faqeje interneti dhe çdo mosmarrëveshje që mund të lindë nga ky përdorim është subjekt i ligjeve të Republikës së Kosoves.</div>
+</asp:Content>
+

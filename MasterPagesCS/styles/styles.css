@@ -1,0 +1,108 @@
+body {
+    font-family: Georgia;
+    font-size: 14px;
+    text-shadow: 0 1px 0 rgba(255,255,255,.50);
+    color: #262626;
+    background: url(../images/wood-bg.jpg);
+}
+ #footer {
+    margin: 0;
+    padding: 0;
+    color: #996600;
+}
+
+h1 img {
+	float: left;
+	margin-right: 5px;
+}
+
+h1 {
+	line-height: 56px;
+}
+
+h1, h2 {
+	font-weight: normal;
+}
+
+#wrapper {
+    width: 900px;
+    margin: 0 auto;
+    position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+
+
+
+/*LAVALAMP START*/
+
+.lavalamp {
+    position: relative;
+    border: 1px solid #d6d6d6;
+    background: #fff;
+    padding: 15px;
+    -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+	-moz-box-shadow: 0 3px 6px rgba(0,0,0,.25);
+    border-radius : 10px;
+    -moz-border-radius : 10px;
+    -webkit-border-radius : 10px;
+    background : -webkit-gradient(linear, left top, left bottom, from(rgb(240,240,240)), to(rgb(204,204,204)));
+    background : #fff;
+    height: 18px;
+	margin-bottom: 0px;
+    top: 9px;
+    left: 4px;
+    width: 1139px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #262626;
+    line-height: 20px;
+	font-family: Aharoni;
+	font-size: x-large;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    z-index: 300;
+    position: absolute;
+	top: 14px;
+	left: 15px;
+	width: 1163px;
+	height: 59px;
+}
+
+ul li {
+    list-style: none;
+    float:left;
+
+    text-align: center;
+	width: 127px;
+	height: 19px;
+}
+
+ul li a {
+    padding: 0 20px;
+    text-align: center;
+    }
+
+.floatr {
+    position: absolute;
+    top: 10px;
+    z-index: 50;
+    width: 70px;
+    height: 30px;
+    border-radius : 8px;
+    -moz-border-radius : 8px;
+    -webkit-border-radius : 8px;
+    background : rgba(0,0,0,.20);
+    -webkit-transition: all .4s ease-in-out;
+    -moz-transition: all .4s ease-in-out;
+}
+
+
+
